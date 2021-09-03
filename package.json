@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "immer": "^6.0.2"
+    "immer": "^9.0.6"
   }
 }
